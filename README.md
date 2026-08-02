@@ -13,7 +13,7 @@
 
 ## Вимоги
 
-- Node.js 22.x
+- Node.js 24.x
 - pnpm (`corepack enable && corepack prepare pnpm@latest --activate`)
 - Docker + Docker Compose
 
